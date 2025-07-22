@@ -1,0 +1,16 @@
+.about-section {
+  background-color: #f8f9fa;
+}
+
+.about-section h2 {
+  color: #007bff;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+}
+
+body {
+  background: linear-gradient(to right, #a1ffce, #faffd1);
+  color: #222;
+}

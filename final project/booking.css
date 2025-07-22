@@ -1,0 +1,22 @@
+section {
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #007bff;
+  font-weight: bold;
+}
+
+input, select {
+  border-radius: 8px;
+}
+
+button {
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+body {
+  background: linear-gradient(to right, #cfd9df, #e2ebf0);
+  color: #111;
+}
